@@ -6,7 +6,7 @@ A copy of the 1979 game Asteroids I did for a college assignment. It features so
 Made with Unity & C#.
 
 ## 🎮 Demo
-You can play the game [here]().
+You can play the game [here](https://lcscout.itch.io/asteroids).
 
 ## 📜 Credits
 Sounds from [https://freesound.org/](https://freesound.org/)
